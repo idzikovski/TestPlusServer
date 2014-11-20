@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Test+ (Server)</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="PIN">PIN</string>
+    <string name="start_button">Start group</string>
+    <string name="connected_devices">Connected devices</string>
+    <string name="start_test">Start test</string>
+    <string name="start">Start</string>
+    <string name="title_activity_choose_queastion">ChooseQueastionActivity</string>
+    <string name="title_activity_chose_question">ChoseQuestionActivity</string>
+    <string name="choose_question">Choose question</string>
+
+</resources>
